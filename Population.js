@@ -1,0 +1,4 @@
+var Population = function(){
+	
+	
+}
